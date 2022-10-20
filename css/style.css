@@ -120,6 +120,7 @@ footer a:hover {
 #lenguajes div {
     border-radius: 30px;
     background-color: #333;
+    margin: 1.5em 0;
 }
 
 .lenguajes__titulo {
@@ -315,6 +316,7 @@ footer a:hover {
         grid-template-rows: auto;
         grid-row-gap: 10px;
         height: 82vh;
+        margin-bottom: 1em;
     }
 
     .flex__container {
